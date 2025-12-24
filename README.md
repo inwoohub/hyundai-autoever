@@ -27,6 +27,7 @@ cd hyundai-autoever
 - VSCode Live Server 사용 권장
 - 또는 더블 클릭으로 브라우저에서 열기
 
+
 ## 개발자
 - 팀장: [서지우]
 - 팀원: [황인우]
